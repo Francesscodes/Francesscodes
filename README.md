@@ -1,16 +1,13 @@
-## Hi there 👋
+<!--# Hi, I'm Francess 👋
+**Backend Developer | Technical Product Manager | 
+Turning ideas into practical, smart solutions with clean code, robust APIs, and connected devices.
 
-<!--
-**Francesscodes/Francesscodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tech Stack
+-Languages:JavaScript, (Node.js), SQL  
+- Frameworks & Tools:** Express, Postman   
+- **Other: Git, GitHub, REST APIs, Automation
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Contact Me
+- LinkedIn: [linkedin.com/in/francessekezie](https://linkedin.com/in/francessekezie)  
+- Email: ekeziezinne+tech@gmail.com  
+"Building the future, one line of code at a time."

@@ -93,5 +93,5 @@ Every project here is built with a mindset of solving real problems in emerging 
 
  Contact Me
 - LinkedIn: [linkedin.com/in/francessekezie](https://linkedin.com/in/francessekezie)  
-- Email: ekeziezinne+tech@gmail.com  
+- Email: ekeziezinne@gmail.com  
 "Building the future, one line of code at a time."
